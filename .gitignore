@@ -1,0 +1,9 @@
+.env
+.env.local
+eval/
+venv
+__pycache__
+dataset
+uploaded_files
+backupmain.py
+*.ipynb
